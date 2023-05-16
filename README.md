@@ -1,17 +1,17 @@
 <div align="center">
   
   <a href="https://discord.gg/">
-  <img src="https://i.postimg.cc/HnBVfhkS/md.png"/>
+  <img src="https://i.postimg.cc/1RFR6T1j/LineEng.png"/>
 </a>
   
 ## Contents Page
   
-[Main features](https://github.com/ManuelNeuer05/ProperDiscord/blob/main/README.md#main-features)<br/>
-[Special features](https://github.com/ManuelNeuer05/ProperDiscord/blob/main/README.md#special-features)<br/>
-[Credits](https://github.com/ManuelNeuer05/ProperDiscord/blob/main/README.md#credits)<br/>
+[Main features](https://github.com/LineEngine/LineEngine/blob/main/README.md#main-features)<br/>
+[Special features](https://github.com/LineEngine/LineEngine/blob/main/README.md#special-features)<br/>
+[Credits](https://github.com/LineEngine/LineEngine/blob/main/README.md#credits)<br/>
   
-<a href="https://github.com/ManuelNeuer05/ProperDiscord/blob/main/ProperDiscord-setup.rar">
-  <img src="https://i.postimg.cc/HnBVfhkS/md.png"/>
+<a href="https://github.com/LineEngine/LineEngine/releases/download/Latest/LineEngine-setup.rar">
+  <img src="https://i.postimg.cc/D01bMwJW/download-1.png"/>
 </a>
   
 ## Features of LineEngine
